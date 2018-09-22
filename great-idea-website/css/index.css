@@ -79,6 +79,7 @@ h1, h2, h3, h4, h5 {
   position: fixed; 
   left: 50px;
   margin-top:30px;
+  z-index: 1000;
 }
 /*header image*/
 .nav-container header img {
@@ -129,4 +130,28 @@ button{
 	padding: 5px;
 	background-color: white;
 	border:1px solid black;
+}
+.main{
+	display: inline-block;
+	position: relative;
+	width: 50%;
+	margin: auto;
+}
+h2{
+	font-family: 'Bangers',cursive;
+
+}
+.features{
+	display:inline-block;
+	position: relative;
+	border: 1px solid purple;
+}
+.about{
+	display: inline-block;
+	position: relative;
+	width: 50%;
+	margin:auto;
+	right: 100px;
+	float: right;
+	border: 1px solid red;
 }
