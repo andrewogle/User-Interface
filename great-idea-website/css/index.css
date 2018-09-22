@@ -134,7 +134,7 @@ button{
 .main{
 	display: inline-block;
 	position: relative;
-	width: 50%;
+	width: 100%;
 	margin: auto;
 }
 h2{
@@ -144,14 +144,22 @@ h2{
 .features{
 	display:inline-block;
 	position: relative;
-	border: 1px solid purple;
+	width:45%;
+	margin: auto;
 }
 .about{
 	display: inline-block;
 	position: relative;
-	width: 50%;
+	width: 45%;
 	margin:auto;
-	right: 100px;
+	padding-left: 15px;
 	float: right;
-	border: 1px solid red;
+}
+.middle-img{
+	display: inline-block;
+	position: absolute;
+	width: 100%;
+	margin: auto;
+	top:150px;
+	right:5px;
 }
