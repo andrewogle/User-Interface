@@ -95,9 +95,18 @@ a{
 	color:#d3d3d3;
 }
 .innovation{
-	display: relative;
+	display: inline-block;
 	width: 50%;
 	margin:auto;
+	position: relative;
+}
+.ball{
+	display:inline-block;
+	width: 50%;
+	margin: auto;
+	margin-top: 15%;
+	position: relative;
+	float: right;
 }
 h1{
 	display: inline-block;
