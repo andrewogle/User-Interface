@@ -163,3 +163,46 @@ h2{
 	top:150px;
 	right:5px;
 }
+.services{
+	display:inline-block;
+	position: absolute;
+	width: 30%;
+	top: 400px;
+	left: 0px;
+
+}
+.product{
+	display:inline-block;
+	position: absolute;
+	width: 30%;
+	top: 400px;
+	left: 350px;
+
+}
+.vision{
+	display:inline-block;
+	position: absolute;
+	width: 30%;
+	top: 400px;
+	right:0px;
+
+}
+.contact{
+	display:inline-block;
+	position: absolute;
+	width: 30%;
+	top: 1200px;
+	left: 165px;
+
+}
+.contact p {
+	margin: 10px;
+}
+.copyright{
+	display:inline-block;
+	position: absolute;
+	width: 30%;
+	top: 1350px;
+	left: 50%;
+	margin-bottom: 100px;
+}
