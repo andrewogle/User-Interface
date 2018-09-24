@@ -206,3 +206,10 @@ h2{
 	left: 50%;
 	margin-bottom: 100px;
 }
+.line2{
+	display:inline-block;
+	position: absolute;
+	width: 75%;
+	margin: auto;
+	top: 1160px;
+}
